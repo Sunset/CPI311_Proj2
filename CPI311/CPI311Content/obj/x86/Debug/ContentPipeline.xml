@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\Bomb.png</Source>
+      <Name>Textures\Bomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Content\Textures\Bomb.xnb</Output>
+      <Time>2012-09-21T21:11:16.046821-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Stripes.png</Source>
+      <Name>Textures\Stripes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Content\Textures\Stripes.xnb</Output>
+      <Time>2012-09-21T21:11:16.0548214-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\SegoeUI.spritefont</Source>
+      <Name>Fonts\SegoeUI</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Content\Fonts\SegoeUI.xnb</Output>
+      <Time>2012-09-21T21:11:16.0788228-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Torus.FBX</Source>
+      <Name>Models\Torus</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Content\Models\Torus.xnb</Output>
+      <Time>2012-09-21T21:11:15.0707651-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Torus_0.xml</Key>
+        <Value>2012-09-22T10:33:17.0376175-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Cube.fbx</Source>
+      <Name>Models\Cube</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Content\Models\Cube.xnb</Output>
+      <Time>2012-09-21T21:11:15.0757654-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Cube_0.xml</Key>
+        <Value>2012-09-22T10:33:17.4786427-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Cube and Torus.fbx</Source>
+      <Name>Models\Cube and Torus</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Content\Models\Cube and Torus.xnb</Output>
+      <Time>2012-09-21T21:11:15.0797657-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Cube and Torus_0.xml</Key>
+        <Value>2012-09-22T10:33:17.8116617-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Sphere.FBX</Source>
+      <Name>Models\Sphere</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Content\Models\Sphere.xnb</Output>
+      <Time>2012-09-21T21:11:15.0657649-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Sphere_0.xml</Key>
+        <Value>2012-09-22T10:33:18.1916835-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Torus.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Torus_0.xml</Output>
+      <Time>2012-09-21T21:11:15.0707651-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Cube.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Cube_0.xml</Output>
+      <Time>2012-09-21T21:11:15.0757654-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Cube and Torus.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Cube and Torus_0.xml</Output>
+      <Time>2012-09-21T21:11:15.0797657-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Sphere.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Sphere_0.xml</Output>
+      <Time>2012-09-21T21:11:15.0657649-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Jellyfish.jpg</Source>
+      <Name>Textures\Jellyfish</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ResizeToPowerOfTwo">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Content\Textures\Jellyfish.xnb</Output>
+      <Time>2012-09-21T21:11:16.0528213-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\SimpleShading.fx</Source>
+      <Name>Effects\SimpleShading</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Content\Effects\SimpleShading.xnb</Output>
+      <Time>2012-10-11T18:52:13.6838159-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\asdf.png</Source>
+      <Name>Textures\asdf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ResizeToPowerOfTwo">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Content\Textures\asdf.xnb</Output>
+      <Time>2012-09-28T12:55:39.8848938-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Red.png</Source>
+      <Name>Textures\Red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ResizeToPowerOfTwo">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Content\Textures\Red.xnb</Output>
+      <Time>2012-10-11T16:02:45.3137791-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Green.png</Source>
+      <Name>Textures\Green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ResizeToPowerOfTwo">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Content\Textures\Green.xnb</Output>
+      <Time>2012-10-11T16:02:48.6787838-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-08-25T11:03:42.8353012-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

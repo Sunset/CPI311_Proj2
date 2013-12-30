@@ -1,0 +1,20 @@
+C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Content\Textures\Bomb.xnb
+C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Content\Textures\Stripes.xnb
+C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Content\Fonts\SegoeUI.xnb
+C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Content\Models\Torus.xnb
+C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Content\Models\Cube.xnb
+C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Content\Models\Cube and Torus.xnb
+C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Content\Models\Sphere.xnb
+C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Content\Textures\Jellyfish.xnb
+C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\CPI311.exe
+C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\CPI311.pdb
+C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Common.dll
+C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Common.pdb
+C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\obj\x86\Debug\CPI311.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\obj\x86\Debug\CPI311.exe
+C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\obj\x86\Debug\CPI311.pdb
+C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Content\Effects\SimpleShading.xnb
+C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Content\Textures\asdf.xnb
+C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Content\Textures\Red.xnb
+C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311\bin\x86\Debug\Content\Textures\Green.xnb

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPI311", "CPI311\CPI311\CPI311.csproj", "{605840BF-F9B1-4559-BAC5-5782ECECCDDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPI311Content", "CPI311\CPI311Content\CPI311Content.contentproj", "{17921061-16D3-47FA-9597-81960AC41DB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{C8C06E98-B2A6-40FC-9CEA-ACD05656671E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{605840BF-F9B1-4559-BAC5-5782ECECCDDC}.Debug|x86.ActiveCfg = Debug|x86
+		{605840BF-F9B1-4559-BAC5-5782ECECCDDC}.Debug|x86.Build.0 = Debug|x86
+		{605840BF-F9B1-4559-BAC5-5782ECECCDDC}.Release|x86.ActiveCfg = Release|x86
+		{605840BF-F9B1-4559-BAC5-5782ECECCDDC}.Release|x86.Build.0 = Release|x86
+		{17921061-16D3-47FA-9597-81960AC41DB9}.Debug|x86.ActiveCfg = Debug|x86
+		{17921061-16D3-47FA-9597-81960AC41DB9}.Release|x86.ActiveCfg = Release|x86
+		{C8C06E98-B2A6-40FC-9CEA-ACD05656671E}.Debug|x86.ActiveCfg = Debug|x86
+		{C8C06E98-B2A6-40FC-9CEA-ACD05656671E}.Debug|x86.Build.0 = Debug|x86
+		{C8C06E98-B2A6-40FC-9CEA-ACD05656671E}.Release|x86.ActiveCfg = Release|x86
+		{C8C06E98-B2A6-40FC-9CEA-ACD05656671E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
