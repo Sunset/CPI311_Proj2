@@ -3,7 +3,7 @@
   <Asset Type="Graphics:NodeContent">
     <Name>RootNode</Name>
     <Identity>
-      <SourceFilename>C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311Content\Models\Cube.fbx</SourceFilename>
+      <SourceFilename>C:\Users\Allen\Desktop\CPI311_Proj2\CPI311\CPI311Content\Models\Cube.fbx</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
@@ -32,7 +32,7 @@
     <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
       <Name>Material</Name>
       <Identity>
-        <SourceFilename>C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311Content\Models\Cube.fbx</SourceFilename>
+        <SourceFilename>C:\Users\Allen\Desktop\CPI311_Proj2\CPI311\CPI311Content\Models\Cube.fbx</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>

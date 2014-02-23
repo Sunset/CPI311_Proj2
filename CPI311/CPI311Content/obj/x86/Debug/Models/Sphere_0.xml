@@ -3,7 +3,7 @@
   <Asset Type="Graphics:MeshContent">
     <Name>Sphere</Name>
     <Identity>
-      <SourceFilename>C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311Content\Models\Sphere.FBX</SourceFilename>
+      <SourceFilename>C:\Users\Allen\Desktop\CPI311_Proj2\CPI311\CPI311Content\Models\Sphere.FBX</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <OpaqueData>
@@ -29,7 +29,7 @@
     <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
       <Name>01 - Default</Name>
       <Identity>
-        <SourceFilename>C:\Users\Owner\Documents\CPI311\Assignment2\CPI311\CPI311Content\Models\Sphere.FBX</SourceFilename>
+        <SourceFilename>C:\Users\Allen\Desktop\CPI311_Proj2\CPI311\CPI311Content\Models\Sphere.FBX</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>
